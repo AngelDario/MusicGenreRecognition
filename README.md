@@ -9,6 +9,6 @@
 
 ### Librerias 
 
-### Ejemplo Histograma
+### Ejemplo Espectrograma
 
 ### Grafica 
